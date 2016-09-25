@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93864864-ee1d-4e18-895d-d4a81f757aa6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-    </list>
+    <list default="true" id="93864864-ee1d-4e18-895d-d4a81f757aa6" name="Default" comment="" />
     <ignored path="FirstProjectOfTeam07.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -170,12 +168,12 @@
       <option name="presentableId" value="Default" />
       <updated>1474776861489</updated>
       <workItem from="1474776864773" duration="2971000" />
-      <workItem from="1474789138711" duration="578000" />
+      <workItem from="1474789138711" duration="667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3549000" />
+    <option name="totallyTimeSpent" value="3638000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -187,7 +185,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="2586" height="1386" extended-state="6" />
+    <frame x="-13" y="-13" width="2586" height="1386" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24990067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
