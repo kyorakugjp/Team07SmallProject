@@ -7,6 +7,8 @@
       <excludeFolder url="file://$MODULE_DIR$/packages" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/web/css/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/web/dart/packages" />
       <excludeFolder url="file://$MODULE_DIR$/web/packages" />
     </content>
     <orderEntry type="inheritedJdk" />
